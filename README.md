@@ -5,7 +5,7 @@
 World population is projected to grow over  billion by the end of the century. with the rapid increase in population food consumption and its supply is becoming an increasingly important issue.
 The Food and Agriculture Organization of the United Nations has been gathering comprehensive data on food and agriculture for 200 countries, starting from 1961 to 2013.
 
-[Tableau Visualization](https://public.tableau.com/profile/pooja7429#!/vizhome/World_Food_Consumption_V2/Story1?publish=yes)
+[Tableau Visualization](https://public.tableau.com/trusted/mNccNZerQhyWMa2WGtA0VQ==:uFa6ek_KynqbsSolKrl9cMhN?:redirUrl=%2Fprofile%2Fapi%2Fpublish%2FWorld_Food_Consumption_V2%2FStory1)
 
 Wrangling Notebook [View Here](https://nbviewer.jupyter.org/github/pooja2512/Tableau-Visualization-on-World-Food-Consumption/blob/master/Data_wrangling_World_food_consumption.ipynb)
 
